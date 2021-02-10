@@ -1,3 +1,3 @@
 # My Website
 
-This is a boaring website
+This is an interesting website
